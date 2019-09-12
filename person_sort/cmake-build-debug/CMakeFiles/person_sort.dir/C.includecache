@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/person_sort/person.h
+
+/home/shira/Desktop/person_sort/sort.h
+glob.h
+-
+person.h
+/home/shira/Desktop/person_sort/person.h
+
+/home/shira/Desktop/person_sort/test.c
+person.h
+/home/shira/Desktop/person_sort/person.h
+sort.h
+/home/shira/Desktop/person_sort/sort.h
+test.h
+/home/shira/Desktop/person_sort/test.h
+stdio.h
+-
+
+/home/shira/Desktop/person_sort/test.h
+

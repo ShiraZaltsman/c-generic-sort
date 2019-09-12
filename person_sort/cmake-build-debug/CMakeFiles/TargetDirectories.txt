@@ -1,0 +1,3 @@
+/home/shira/Desktop/person_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/person_sort/cmake-build-debug/CMakeFiles/person_sort.dir
+/home/shira/Desktop/person_sort/cmake-build-debug/CMakeFiles/edit_cache.dir

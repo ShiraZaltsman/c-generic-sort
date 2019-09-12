@@ -1,0 +1,4 @@
+person.o: person.c person.h
+sort.o: sort.c sort.h person.h
+main.o: main.c test.h
+test.o: test.c person.h sort.h test.h

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/person_sort.dir/main.c.o CMakeFiles/person_sort.dir/sort.c.o CMakeFiles/person_sort.dir/person.c.o CMakeFiles/person_sort.dir/test.c.o  -o person_sort 
